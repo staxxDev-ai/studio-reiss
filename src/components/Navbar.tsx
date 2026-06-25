@@ -25,9 +25,9 @@ export function Navbar({ onOpenDevoc }: { onOpenDevoc?: () => void }) {
       <div className="fixed top-0 left-0 w-full flex items-center justify-end gap-3 p-6 md:p-10 z-50 pointer-events-none">
         {/* Botões de Idioma */}
         <div className="pointer-events-auto flex items-center gap-4 bg-black/20 backdrop-blur-md rounded-full px-5 h-12 border border-white/10">
-          <button onClick={() => setLanguage("BR")} className={`text-sm md:text-base font-medium tracking-wider leading-none transition-all hover:scale-110 ${language === "BR" ? "opacity-100 text-white" : "opacity-40 hover:opacity-100"}`} title="Português">BR</button>
-          <button onClick={() => setLanguage("US")} className={`text-sm md:text-base font-medium tracking-wider leading-none transition-all hover:scale-110 ${language === "US" ? "opacity-100 text-white" : "opacity-40 hover:opacity-100"}`} title="English">US</button>
-          <button onClick={() => setLanguage("ES")} className={`text-sm md:text-base font-medium tracking-wider leading-none transition-all hover:scale-110 ${language === "ES" ? "opacity-100 text-white" : "opacity-40 hover:opacity-100"}`} title="Español">ES</button>
+          <button onClick={() => setLanguage("BR")} className={`cursor-pointer text-sm md:text-base font-medium tracking-wider leading-none transition-all hover:scale-110 ${language === "BR" ? "opacity-100 text-white" : "opacity-40 hover:opacity-100"}`} title="Português">BR</button>
+          <button onClick={() => setLanguage("US")} className={`cursor-pointer text-sm md:text-base font-medium tracking-wider leading-none transition-all hover:scale-110 ${language === "US" ? "opacity-100 text-white" : "opacity-40 hover:opacity-100"}`} title="English">US</button>
+          <button onClick={() => setLanguage("ES")} className={`cursor-pointer text-sm md:text-base font-medium tracking-wider leading-none transition-all hover:scale-110 ${language === "ES" ? "opacity-100 text-white" : "opacity-40 hover:opacity-100"}`} title="Español">ES</button>
         </div>
 
         {/* Menu Toggle Top Right */}
