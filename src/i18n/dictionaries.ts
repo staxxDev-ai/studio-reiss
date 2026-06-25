@@ -66,11 +66,11 @@ export const dictionaries = {
 
     "exp.estradeiro.role": "Analista de Mídias Sociais",
     "exp.estradeiro.date": "Dez 2022 - Jun 2023",
-    "exp.estradeiro.desc": "Gestão de mídias sociais e criação de estratégias de conteúdo em tempo integral.",
+    "exp.estradeiro.desc": "Responsável pela estruturação e desenvolvimento do departamento de marketing da empresa, atuando na criação de estratégias de comunicação, produção de conteúdo, gestão de redes sociais, captação e edição de vídeos, cobertura de eventos e fortalecimento da presença da marca. Também desempenhei atividades relacionadas à gestão de tráfego pago, análise de campanhas e produção audiovisual para projetos do grupo, incluindo participações em conteúdos televisivos e ações de marketing integradas.",
 
     "exp.webtrends.role": "Estagiário de Mkt de Mídias Sociais",
     "exp.webtrends.date": "Ago 2022 - Dez 2022",
-    "exp.webtrends.desc": "Marketing digital e criação de conteúdo estruturado voltado para mídias sociais.",
+    "exp.webtrends.desc": "Atuação em uma agência de marketing atendendo múltiplos clientes de diferentes segmentos. Responsável pela criação de conteúdos para redes sociais, desenvolvimento de peças gráficas, redação publicitária e planejamento de publicações, contribuindo para a construção e fortalecimento da presença digital das marcas atendidas.",
 
     "exp.martinez.role": "Estágio de Designer Gráfico",
     "exp.martinez.date": "Mai 2022 - Ago 2022",
@@ -148,11 +148,11 @@ export const dictionaries = {
 
     "exp.estradeiro.role": "Social Media Analyst",
     "exp.estradeiro.date": "Dec 2022 - Jun 2023",
-    "exp.estradeiro.desc": "Social media management and creation of full-time content strategies.",
+    "exp.estradeiro.desc": "Responsible for structuring and developing the company's marketing department, acting in the creation of communication strategies, content production, social media management, video capture and editing, event coverage, and brand presence strengthening. I also performed activities related to paid traffic management, campaign analysis, and audiovisual production for group projects, including participation in television content and integrated marketing actions.",
 
     "exp.webtrends.role": "Social Media Marketing Intern",
     "exp.webtrends.date": "Aug 2022 - Dec 2022",
-    "exp.webtrends.desc": "Digital marketing and structured content creation focused on social media.",
+    "exp.webtrends.desc": "Worked in a marketing agency serving multiple clients from different segments. Responsible for creating content for social networks, developing graphic pieces, copywriting, and planning publications, contributing to the construction and strengthening of the digital presence of the brands served.",
 
     "exp.martinez.role": "Graphic Design Intern",
     "exp.martinez.date": "May 2022 - Aug 2022",
@@ -230,11 +230,11 @@ export const dictionaries = {
 
     "exp.estradeiro.role": "Analista de Redes Sociales",
     "exp.estradeiro.date": "Dic 2022 - Jun 2023",
-    "exp.estradeiro.desc": "Gestión de redes sociales y creación de estrategias de contenido a tiempo completo.",
+    "exp.estradeiro.desc": "Responsable de estructurar y desarrollar el departamento de marketing de la empresa, actuando en la creación de estrategias de comunicación, producción de contenido, gestión de redes sociales, captura y edición de videos, cobertura de eventos y fortalecimiento de la presencia de la marca. También desempeñé actividades relacionadas con la gestión de tráfico pago, análisis de campañas y producción audiovisual para proyectos del grupo, incluyendo participación en contenidos televisivos y acciones de marketing integradas.",
 
     "exp.webtrends.role": "Pasante de Marketing en Redes Sociales",
     "exp.webtrends.date": "Ago 2022 - Dic 2022",
-    "exp.webtrends.desc": "Marketing digital y creación de contenido estructurado enfocado en redes sociales.",
+    "exp.webtrends.desc": "Trabajo en una agencia de marketing atendiendo a múltiples clientes de diferentes segmentos. Responsable de crear contenido para redes sociales, desarrollar piezas gráficas, redacción publicitaria y planificación de publicaciones, contribuyendo a la construcción y fortalecimiento de la presencia digital de las marcas atendidas.",
 
     "exp.martinez.role": "Pasante de Diseño Gráfico",
     "exp.martinez.date": "May 2022 - Ago 2022",
