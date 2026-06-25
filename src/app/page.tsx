@@ -102,13 +102,13 @@ export default function Home() {
     const rawCount = localStorage.getItem("site_reload_count");
     let count = rawCount ? parseInt(rawCount, 10) : 0;
     
-    count += 1;
-    
-    // Roda a animação a cada 3 reloads (quando o resto da divisão por 3 for 0)
+    // Se count for 0, 3, 6, etc (resto da divisão for 0), roda a animação.
+    // Assim roda na 1ª vez, pula 2, e roda de novo.
     if (count % 3 !== 0) {
       setIsLoading(false);
     }
     
+    count += 1;
     localStorage.setItem("site_reload_count", count.toString());
   }, []);
 
