@@ -72,7 +72,7 @@ export const dictionaries = {
     "exp.webtrends.date": "Ago 2022 - Dez 2022",
     "exp.webtrends.desc": "Marketing digital e criação de conteúdo estruturado voltado para mídias sociais.",
 
-    "exp.martinez.role": "Designer Gráfico",
+    "exp.martinez.role": "Estágio de Designer Gráfico",
     "exp.martinez.date": "Mai 2022 - Ago 2022",
     "exp.martinez.desc": "Estágio focado na criação de peças publicitárias visuais e de comunicação. Primeiro contato real com o mercado fora do freelance, pouca oportunidade em grandes projetos e poucas responsabilidades.",
 
@@ -154,7 +154,7 @@ export const dictionaries = {
     "exp.webtrends.date": "Aug 2022 - Dec 2022",
     "exp.webtrends.desc": "Digital marketing and structured content creation focused on social media.",
 
-    "exp.martinez.role": "Graphic Designer",
+    "exp.martinez.role": "Graphic Design Intern",
     "exp.martinez.date": "May 2022 - Aug 2022",
     "exp.martinez.desc": "Internship focused on creating visual and communication advertising pieces. First real contact with the market outside of freelance, limited opportunity in large projects and few responsibilities.",
 
@@ -236,7 +236,7 @@ export const dictionaries = {
     "exp.webtrends.date": "Ago 2022 - Dic 2022",
     "exp.webtrends.desc": "Marketing digital y creación de contenido estructurado enfocado en redes sociales.",
 
-    "exp.martinez.role": "Diseñador Gráfico",
+    "exp.martinez.role": "Pasante de Diseño Gráfico",
     "exp.martinez.date": "May 2022 - Ago 2022",
     "exp.martinez.desc": "Pasantía enfocada en la creación de piezas publicitarias visuales y de comunicación. Primer contacto real con el mercado fuera del trabajo freelance, poca oportunidad en grandes proyectos y pocas responsabilidades.",
 
