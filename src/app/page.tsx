@@ -266,18 +266,7 @@ export default function Home() {
                 date={t("exp.reis.date")}
                 description={t("exp.reis.desc")}
               />
-              <ExperienceCard
-                company="Agência Escola Nucom"
-                role={t("exp.agencia.role")}
-                date={t("exp.agencia.date")}
-                description={t("exp.agencia.desc")}
-              />
-              <ExperienceCard
-                company="Atlética Comunica Estácio"
-                role={t("exp.atletica.role")}
-                date={t("exp.atletica.date")}
-                description={t("exp.atletica.desc")}
-              />
+
               <ExperienceCard
                 company="Estradeiro"
                 role={t("exp.estradeiro.role")}
