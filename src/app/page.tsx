@@ -262,7 +262,7 @@ export default function Home() {
                 description={t("exp.devoc.desc")}
               />
               <ExperienceCard
-                company="Reis PSD"
+                company="Studio Reiss"
                 role={t("exp.reis.role")}
                 date={t("exp.reis.date")}
                 description={t("exp.reis.desc")}

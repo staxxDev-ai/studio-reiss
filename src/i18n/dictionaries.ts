@@ -52,9 +52,9 @@ export const dictionaries = {
     "exp.devoc.date": "Jul 2023 - Presente",
     "exp.devoc.desc": "Atuo na Devoc como profissional multifuncional de Marketing, participando de todas as etapas da comunicação da empresa. Sou responsável pela produção e edição de vídeos, criação de peças gráficas para ambientes digitais e impressos, gestão de redes sociais, planejamento de conteúdo, análise de resultados e gestão de campanhas de tráfego pago através do Meta Ads. Também presto suporte em eventos corporativos, desenvolvendo materiais de divulgação e realizando cobertura audiovisual, contribuindo diretamente para o fortalecimento da marca e geração de oportunidades de negócio.",
 
-    "exp.reis.role": "Designer Gráfico",
+    "exp.reis.role": "Freelancer",
     "exp.reis.date": "Disponível para trabalhos",
-    "exp.reis.desc": "Atuação como freelancer remoto desenvolvendo projetos de design gráfico e branding.",
+    "exp.reis.desc": "Atuação como freelancer remoto desenvolvendo projetos de design gráfico e branding, sites e soluções para empresas, edição de vídeo, roteirização de conteúdos e consultoria particular de mídias digitais.",
 
     "exp.agencia.role": "Designer Gráfico",
     "exp.agencia.date": "Mar 2022 - Mar 2024",
@@ -134,9 +134,9 @@ export const dictionaries = {
     "exp.devoc.date": "Jul 2023 - Present",
     "exp.devoc.desc": "I work at Devoc as a multifunctional Marketing professional, participating in all stages of the company's communication. I am responsible for video production and editing, creation of graphic pieces for digital and print environments, social media management, content planning, results analysis, and management of paid traffic campaigns through Meta Ads. I also provide support at corporate events, developing promotional materials and providing audiovisual coverage, contributing directly to strengthening the brand and generating business opportunities.",
 
-    "exp.reis.role": "Graphic Designer",
+    "exp.reis.role": "Freelancer",
     "exp.reis.date": "Available for work",
-    "exp.reis.desc": "Working as a remote freelancer developing graphic design and branding projects.",
+    "exp.reis.desc": "Working as a remote freelancer developing graphic design and branding projects, websites and solutions for companies, video editing, content scripting, and private digital media consulting.",
 
     "exp.agencia.role": "Graphic Designer",
     "exp.agencia.date": "Mar 2022 - Mar 2024",
@@ -216,9 +216,9 @@ export const dictionaries = {
     "exp.devoc.date": "Jul 2023 - Presente",
     "exp.devoc.desc": "Trabajo en Devoc como profesional multifuncional de Marketing, participando en todas las etapas de la comunicación de la empresa. Soy responsable de la producción y edición de videos, creación de piezas gráficas para entornos digitales e impresos, gestión de redes sociales, planificación de contenidos, análisis de resultados y gestión de campañas de tráfico pagado a través de Meta Ads. También brindo soporte en eventos corporativos, desarrollando materiales promocionales y realizando cobertura audiovisual, contribuyendo directamente al fortalecimiento de la marca y la generación de oportunidades de negocio.",
 
-    "exp.reis.role": "Diseñador Gráfico",
+    "exp.reis.role": "Freelancer",
     "exp.reis.date": "Disponible para trabajos",
-    "exp.reis.desc": "Trabajo como freelancer remoto desarrollando proyectos de diseño gráfico y branding.",
+    "exp.reis.desc": "Trabajo como freelancer remoto desarrollando proyectos de diseño gráfico y branding, sitios web y soluciones para empresas, edición de video, guionización de contenidos y consultoría privada de medios digitales.",
 
     "exp.agencia.role": "Diseñador Gráfico",
     "exp.agencia.date": "Mar 2022 - Mar 2024",
