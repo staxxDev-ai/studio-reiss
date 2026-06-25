@@ -207,6 +207,7 @@ export default function Home() {
                     <Image src="/logos/mtz.png" alt="MTZ" width={140} height={48} className="h-8 md:h-10 w-auto object-contain brightness-0 invert opacity-80 hover:opacity-100 transition-opacity" unoptimized />
                     <Image src="/logos/supra.png" alt="Supra" width={140} height={48} className="h-8 md:h-10 w-auto object-contain brightness-0 invert opacity-80 hover:opacity-100 transition-opacity" unoptimized />
                     <Image src="/logos/estradeiro.png" alt="Estradeiro" width={140} height={48} className="h-8 md:h-10 w-auto object-contain brightness-0 invert opacity-80 hover:opacity-100 transition-opacity" unoptimized />
+                    <Image src="/logos/giaro.png" alt="Giaro" width={140} height={48} className="h-8 md:h-10 w-auto object-contain brightness-0 invert opacity-80 hover:opacity-100 transition-opacity" unoptimized />
                   </div>
                 ))}
               </motion.div>
